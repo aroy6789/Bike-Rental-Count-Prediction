@@ -1,1 +1,4 @@
 # Bike-Rental-Count-Prediction
+Data Science Machine Learning Project to Predict Bike Rental Count based on Seasonal and Environmental settings Problem Statement : The Project is about a Bike Rental company who has its historical data, and now our objective of this Project is to Predict the Bike Rental Count on Yearly and Seasonal basis, considering the Environmental and Seasonal settings. These Predicted values will help the Business to meet the demand on those particular days by maintaining the amount of supply. 
+
+Nowadays, there are number of Bike Renting Companies like, Ola Bikes, Rapido etc. And these Bike Renting Companies deliver services to lakhs of customers daily. Now, it becomes really important to manage their data properly to come up with new Business-Ideas to get best results. In this case we have to identify in which days there can be most demand, such that we have enough strategies to deal with such demand.
